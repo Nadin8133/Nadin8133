@@ -29,3 +29,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I solve problems 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%B4%D0%B0-%D0%BF%D1%83%D0%BD%D1%8C%D0%BA%D0%BE-01270324a/)
+- ---
+
+### :hammer_and_wrench: Languages and Tools :
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nadin8133&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nadin8133)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nadin8133&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
